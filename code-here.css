@@ -1,0 +1,59 @@
+#classic {
+padding: 1em;
+  text-align: justify;
+  margin-left: 50px;
+}
+
+#modern {
+padding: 17px;
+  text-align: center;
+  margin-top: 1em;
+  background-color: gold;
+  font-family: sans-serif;
+  box-shadow: 4px 4px 4px lightgray;
+}
+
+#impact {
+font-family: sans-serif;
+  background-color: lightgreen;
+  text-align: center;
+  border: 15px double black;
+  padding: 1em;
+}
+
+#elise {
+  background-color: floralwhite;
+  border: 6px groove floralwhite;
+  font-family: cursive;
+  text-align: center;
+  padding: 1em;
+}
+
+#one, #two  {
+  display: inline-block;
+  margin-left: 40px;
+  margin-top: 95px;
+  border: 8px ridge mediumturquoise;
+  text-align: center;
+  padding: 0.8em;
+  font-family: sans-serif;
+  background-color: aquamarine;
+
+}
+
+#gaudi {
+font-family: sans-serif;
+background-color: lightsalmon;
+text-align: center;
+border: . lightseagreen;
+  padding: 1em;
+  display: inline-block;
+  margin-top:  95px;
+  margin-left: 40px;
+border-radius: 20px 50px;
+   box-shadow: 3px 3px 0px ;
+}
+
+
+
+
